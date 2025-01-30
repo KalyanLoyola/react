@@ -26,6 +26,8 @@ export default class Customers extends Component {
   };
 
   render() {
+    // +++ U222222 
+    // +++ U222222 
     if (!this.state.customerList || this.state.customerList) // J1 - Janes commit1
       // ZACK 1
       // ZACK 1
